@@ -1,0 +1,20 @@
+h1,h2{
+    text-align:center;
+    border: 2px solid rgb(73, 111, 236);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-variant:inherit;
+    color: rgb(181, 12, 156);
+    background-color: rgb(183, 237, 237);
+    width: 70%;
+}
+p
+{
+    text-align: left;
+    font-style: oblique;
+    border: 3px solid brown;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #217d0a;
+    background-color: rgb(224, 235, 153);
+    width: 50%;
+}
